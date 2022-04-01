@@ -27,7 +27,7 @@ jobs:
       - checkout
 
       - run:
-          command: bundle exec htmlproofer ./_site --check-html
+          command: https://help.github.com/articles/set-up-git/
           command: bundle install
 
       - run:
